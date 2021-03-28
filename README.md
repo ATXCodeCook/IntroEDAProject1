@@ -4,7 +4,7 @@ Introduction to EDA using Pandas for Data Analyst degree
 Note: Github has issues with displaying .ipynb tables that have the "${:,.2f}" formatting. 
 An extra quote is placed before the $ causing the table cell to break. Solution given is to 
 view the notebook with jupyter.org nbviewer. A link file has been created in the repo but is
-also available below. 
+also available below. CTRL or CMD click to open in new tab/window. 
 
 <a href="https://nbviewer.jupyter.org/github/ATXCodeCook/Sandbox/blob/master/investigate_dataset_TMDb.ipynb" target="_blank">
   View Notebook with Jupyter's Notebook Viewer
