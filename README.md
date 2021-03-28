@@ -6,7 +6,9 @@ An extra quote is placed before the $ causing the table cell to break. Solution 
 view the notebook with jupyter.org nbviewer. A link file has been created in the repo but is
 also available below. 
 
-[View Notebook with Jupyter's Notebook Viewer](https://nbviewer.jupyter.org/github/ATXCodeCook/Sandbox/blob/master/investigate_dataset_TMDb.ipynb target="_blank")
+<a href="https://nbviewer.jupyter.org/github/ATXCodeCook/Sandbox/blob/master/investigate_dataset_TMDb.ipynb" target="_blank">
+  View Notebook with Jupyter's Notebook Viewer
+</a>
 
 ### Description of project
 This is a academic project for Introduction to Data Analysis with a focus on using Pandas.
